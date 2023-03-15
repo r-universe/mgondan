@@ -1,5 +1,9 @@
 [
   {
+    "package": "mathml",
+    "oncran": true
+  },
+  {
     "package": "rolog",
     "oncran": true
   },
