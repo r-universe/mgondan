@@ -1,10 +1,10 @@
 [
   {
-    "package": "rswipl",
+    "package": "rolog",
     "oncran": true
   },
   {
-    "package": "rolog",
+    "package": "rswipl",
     "oncran": true
   }
 ]
